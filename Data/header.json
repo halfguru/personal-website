@@ -1,0 +1,18 @@
+{
+    "Name": "Simon Ho",
+    "Occupation": "Software Developer",
+    "City": "Montreal",
+    "Description": "currently employed as a consultant and have experience in development for embedded systems and microprocessors. I also bash my keyboard until everything works",
+    "Social": [ 
+        {
+            "name": "linkedin",
+            "url": "https://www.linkedin.com/in/simondkho/",
+            "className": "fa fa-linkedin"
+        },
+        {
+            "name": "github",
+            "url": "http://github.com/halfguru",
+            "className": "fa fa-github"
+        }
+    ]
+}

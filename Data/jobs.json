@@ -1,0 +1,47 @@
+[
+    {
+        "Id": 1,
+        "CompanyName": "Alten",
+        "Logo": "alten_logo.png",
+        "JobTitle": "Software Developer",
+        "StartDate": "Dec 2020",
+        "EndDate": "Present",
+        "Location": "Montreal, QC",
+        "JobDuties": [
+            "Consultant for Zimmer-Biomet",
+            "Worked for client (CMC electronics) in tools team on C++ software design of Avionics simulation/training tool",
+            "Configure and customize Part-Task Trainers (training device for selected aircraft and tasks that simulates real time flight performance and display systems) for customers"
+        ]
+    },
+    {
+        "Id": 2,
+        "CompanyName": "Onepoint",
+        "Logo": "onepoint_logo.png",
+        "JobTitle": "Software Developer",
+        "StartDate": "May 2019",
+        "EndDate": "Dec 2020",
+        "Location": "Montreal, QC",
+        "JobDuties": [
+            "Worked for client (Humanware) on C++ application software development on ARM microprocessor platform for low vision aids purpose",
+            "Implemented device USB & Bluetooth connectivity to PC/Mac/iOS/Android host using BlueZ Linux stack and USB HID gadget driver. Added device bluetooth HID connectivity with multiple hosts and ability to switch connection",
+            "Developed Bash tests for production to verify basic hardware and software functionalities (Wifi, Bluetooth, LED, vibration, etc.)",
+            "Modified Linux Buildroot kernel & external packages and device tree to assign the hardware GPIO mappings",
+            "Provided advice to client to implement Gitflow, improved code review methodology and software development practices"
+        ]
+    },
+    {
+        "Id": 3,
+        "CompanyName": "Octasic",
+        "Logo": "octasic_logo.png",
+        "JobTitle": "Software Developer",
+        "StartDate": "May 2019",
+        "EndDate": "Dec 2020",
+        "Location": "Montreal, QC",
+        "JobDuties": [
+            "Developed RF wireless (GSM, UMTS, LTE, etc.) embedded control and diagnostic tools (Python, C, C++) for internal hardware team",
+            "Built RESTful API Web server (POCO C++ library backend) on Beaglebone Black to control board power amplifiers, switches, GPIO, etc. (Atmel microprocessors) with TCP socket communication",
+            "Designed & programmed a single-page application web application to visualize performance and control the RF embedded system (Vanilla Javascript/HTML/CSS & Flask library for simulation)",
+            "Improved and maintain the build machine multi-UE (multiple RF bandwidth frequencies) automated testing system with Python script modules and using Pytest framework with Jenkins build server"
+        ]
+    }
+]

@@ -1,0 +1,10 @@
+{
+    "Name": "Simon Ho",
+    "Bio": "I have a deep passion for coding and software innovations. I have worked for Octasic for a year doing software development for Atmel microprocessors and a RESTful API server on a Beaglebone Black. Afterwards, I've worked as consultant at Onepoint and Alten, working on Linux application software for a braille display, aircraft simulation and QT user interface development for orthopedics medical assistance. Outside of work, I like to play video games, watch eSports and travel.",
+    "Address": {
+        "city": "Montreal",
+        "state": "Quebec"
+    },
+    "Resumedownload": "http://timbakerdev.com",
+    "image": "profilepic.jpg"
+}
